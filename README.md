@@ -4,3 +4,7 @@ Week 1 Practice Exercise
 - fruit
 - soap
 - tide pods
+- pants
+- piece of paper
+- potatoes
+- pile of leaves
